@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+"""Run QR Share from this directory or its installed application directory."""
+from qrshare.cli import main
+
+raise SystemExit(main())
